@@ -85,7 +85,7 @@ To write a controller logic, we have to have services implemented, and to have s
 
 To solve this problem and still able to use inversion of control, dependecy injection is introduced.
 
-![de11f6e3c3277b2448942492a8164b2c.png](:/886f9a0bb4e541c5808e39d1125c314f)
+![Di container flow](/notes/images/di_container_flow.png)
 
 
 Providers = things that can be used as dependencies for other classes
@@ -94,9 +94,9 @@ Providers = things that can be used as dependencies for other classes
 
 # Project: My Car Value 
 
-![bbf7030ea940200ff730139ef75aacf1.png](:/b2d9bcf361224d6db4ed04a6b826c0d6)
+![Methods and Routes](/notes/images/methods_routes.png)
 
-![e25f96d4e0402b6965877650d40c53fc.png](:/18379e900335459f85bb29fc718a28e4)
+![Controllers Services and repositories](/notes/images/controllers_services_repositories.png)
 
 # Authentication Vs Authorization
 
@@ -106,5 +106,5 @@ Providers = things that can be used as dependencies for other classes
 
 # Nest Request Handling steps
 
-![87b80505f68eb4eff314045f1555305f.png](:/be392015a189481d862b2c7ef94f3b05)
+![Nest request handling steps](/notes/images/nest_request_handling_steps.png)
 
